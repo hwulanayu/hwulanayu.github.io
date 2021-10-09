@@ -24,3 +24,5 @@ The project was completed as part of Computer Science's 'Data Science' course at
 
 ### [Web Scraping](https://github.com/hwulanayu/web-scraping-female-daily/blob/master/Scraping%20Female%20Daily%20August%202021.ipynb)
 Scraping local skincare products, reviews, and user demographics (anonymized user names) on the [Female Daily website](https://femaledaily.com/) and transforming the dataset using Selenium, Numpy, and Pandas Python library. 
+
+The project was completed as part of me having fun.
