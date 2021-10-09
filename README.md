@@ -21,3 +21,6 @@ Clustering seeds type from this [dataset](https://archive.ics.uci.edu/ml/dataset
 * [Clustering Wheat Seeds with Hierarchical Clustering](https://github.com/hwulanayu/hwulanayu.github.io/blob/master/Clustering%20Wheat%20Seeds%20with%20Hierarchical%20Clustering.ipynb)
 
 The project was completed as part of Computer Science's 'Data Science' course at Universitas Indonesia.
+
+### [Web Scraping](https://github.com/hwulanayu/web-scraping-female-daily/blob/master/Scraping%20Female%20Daily%20August%202021.ipynb)
+Scraping local skincare products, reviews, and user demographics (anonymized user names) on the [Female Daily website] (https://femaledaily.com/) and transforming the dataset using Selenium, Numpy, and Pandas Python library. 
